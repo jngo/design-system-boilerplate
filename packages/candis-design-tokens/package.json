@@ -19,5 +19,6 @@
   },
   "peerDependencies": {
     "polished": "^1.9.3"
-  }
+  },
+  "gitHead": "a19cc1286dc86e42654586b22efd0858b94b48fd"
 }
