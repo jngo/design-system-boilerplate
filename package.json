@@ -21,7 +21,7 @@
   "devDependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "@storybook/react": "^3.4.8",
+    "@storybook/react": "^9.1.1",
     "@storybook/addon-actions": "^3.4.8",
     "@storybook/addon-links": "^3.4.8"
   },
